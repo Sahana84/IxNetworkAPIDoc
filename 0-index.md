@@ -1,17 +1,19 @@
 ---
-title: Home
+title: About
+nav: true
 ---
 
 <div> 
-    <img src="{{ "/images/ixia.jpg" | absolute_url }}" alt="github octocat" style="width:45%;" >   
+    <img src="{{ "/images/ixia.png" | absolute_url }}" alt="github octocat" style="width:37%;" >    
 </div>
 
-# This is a sample API documentation project with GitHub. 
+## This is a sample API documentation project with GitHub. 
 
-## The tutorials explain some of the IxNetwork feature configurations with sample scripts.
+### The tutorials explain some of the IxNetwork feature configurations with sample scripts.
 
 
 <div class="toc" markdown="1">
+
 ## Contents:
 
 {% for lesson in site.pages %}
