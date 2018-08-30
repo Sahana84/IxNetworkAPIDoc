@@ -1,5 +1,5 @@
 ---
-title: Tutorial 1
+title: Tutorial-1
 nav: true
 ---
 
