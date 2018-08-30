@@ -3,7 +3,7 @@ title: Home
 ---
 
 <div> 
-    <img src="{{ "/images/ixia.png" | absolute_url }}" alt="github octocat" style="width:100%;" >    
+    <img src="{{ "/images/ixia.png" | absolute_url }}" alt="github octocat" style="width:37%;" >    
 </div>
 
 ## This is a sample API documentation project with GitHub. 
