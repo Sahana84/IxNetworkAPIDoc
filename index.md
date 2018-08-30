@@ -1,6 +1,5 @@
 ---
-title: About
-nav: true
+title: Home
 ---
 
 <div> 
