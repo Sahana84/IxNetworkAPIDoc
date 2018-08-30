@@ -1,6 +1,4 @@
----
-title: Home
----
+
 
 <div> 
     <img src="{{ "/images/ixia.png" | absolute_url }}" alt="github octocat" style="width:37%;" >    
