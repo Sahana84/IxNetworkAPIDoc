@@ -1,0 +1,40 @@
+# Jekyll workshop-template https://github.com/evanwill/workshop-template
+# based on minima theme https://github.com/jekyll/minima
+
+# Notes: 
+# - fig include, {% include figure.html file="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}
+# - pages with "nav: true" in front matter will be in header nav
+# - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
+
+# site settings
+title: IxNetwork API Documentation with GitHub
+description: > 
+  A test project to create API documenation with GitHub.  
+keywords: "github, github-pages, websites, static gen, hosting, html, workshop, gh-pages"
+
+# author settings for cc-by
+author: Sahana Ghosh
+pub_year: 2018
+github_username: Sahana84
+
+# add the full url for the github repository
+repo: "https://github.com/Sahana84/IxNetworkAPIDoc"
+
+# urls
+# your gh-pages url:  https://sahana84.github.io
+url:  https://sahana84.github.io/
+# your repository name: /IxNetworkAPIDoc
+baseurl: /IxNetworkAPIDoc
+
+# analytics if desired (and use environment variable on build command)
+# google_analytics: UA-74844011-1
+
+# defaults (to simplify front matter)
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Build settings
+markdown: kramdown
