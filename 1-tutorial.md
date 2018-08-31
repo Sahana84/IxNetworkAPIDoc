@@ -130,4 +130,4 @@ puts "Starting All Protocols"
 		async>
 		</script>
 		
-{{ page.last_modified_at | date: '%Y:%B:%A:%d:%S:%R' }}
+{{ page.last_modified_at }}
