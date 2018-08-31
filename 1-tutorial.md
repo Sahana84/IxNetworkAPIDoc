@@ -130,4 +130,9 @@ puts "Starting All Protocols"
 		async>
 		</script>
 		
-
+{% if page.date %}
+  <span class="icon-calendar pr20"> Published: <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished"> {{ page.date | date: "%Y-%m-%d" }}</time></span>
+{% endif %}
+{% if page.last_modified_at %}
+  <span class="icon-calendar pr20"> Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="datePublished"> {{ page.last_modified_at | date: "%Y-%m-%d" }}</time></span>
+{% endif %}
