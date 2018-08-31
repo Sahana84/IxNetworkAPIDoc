@@ -1,6 +1,7 @@
 ---
 title: Tutorial-1
 nav: true
+layout: post
 ---
 
 
