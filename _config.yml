@@ -36,6 +36,9 @@ defaults:
     values:
       layout: default
 
+gems:
+  - jekyll-last-modified-at
+  
 # Build settings
 markdown: kramdown
 
