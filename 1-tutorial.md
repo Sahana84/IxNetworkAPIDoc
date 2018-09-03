@@ -1,7 +1,6 @@
 ---
 title: Tutorial-1
 nav: true
-date: 2018-09-03 18:40:00
 ---
 
 
@@ -131,5 +130,5 @@ puts "Starting All Protocols"
 		async>
 		</script>
 		
-This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 
