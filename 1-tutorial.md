@@ -131,4 +131,5 @@ puts "Starting All Protocols"
 		async>
 		</script>
 		
-{{ page.last_modified_at }}
+This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+
