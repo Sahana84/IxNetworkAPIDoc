@@ -356,4 +356,5 @@ puts "Refreshing the new view"
 		async>
 		</script>
 
-### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+> ### This article was last updated at {{ "now" | date: "%Y-%m-%d %H:%M"}}.
+
