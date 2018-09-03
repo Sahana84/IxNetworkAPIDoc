@@ -130,5 +130,5 @@ puts "Starting All Protocols"
 		async>
 		</script>
 		
-### This page was last updated at {{ "today" | date: "%Y-%m-%d %H:%M" }}.
-
+### This article was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+### Article published at {{ article.published_at | date: "%a, %b %d, %y" }}
