@@ -252,4 +252,4 @@ puts "Step 17 -> Cleaning up the client: "
 		async>
 		</script>
 
-This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
