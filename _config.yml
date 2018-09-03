@@ -35,6 +35,13 @@ defaults:
       path: ""
     values:
       layout: default
+    date:
+      formats:
+       default: "%d/%m/%Y %H:%M:%S"
+    time:
+      formats:
+        default: "%d/%m/%Y %H:%M:%S"
+        default_timezone: "UTC + 5.30"
 
 gems:
   - jekyll-last-modified-at
