@@ -355,3 +355,5 @@ puts "Refreshing the new view"
 		issue-term="url"
 		async>
 		</script>
+
+### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
