@@ -16,6 +16,7 @@ To start a Wish Console session, do the following:
 The Wish Console window appears.
 <div><img src="{{ "/images/IxN.png" | absolute_url }}" alt="github octocat" style="width:100%;" ></div> 
  
+
 ## Step 2: Define ports
 To define the ports on which the Ethernet sessions will be configured, run the following code snippet:
 
