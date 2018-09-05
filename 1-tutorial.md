@@ -134,5 +134,5 @@ puts "Starting All Protocols"
 > ### This article was last updated at {{ "now" | date: "%Y-%m-%d %H:%M"}}.
 <p class="meta">
     <span>Posted by {{ page.author }} on {{ page.date }}.</span>
-    {% include read-time.html content=content %}
+    {% include read_time.html content=content %}
 </p>
