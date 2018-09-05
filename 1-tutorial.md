@@ -6,7 +6,9 @@ nav: true
 
 # How to configure 10 Ethernet sessions on each of the two ports
 This tutorial shows you how to configure 10 Ethernet sessions on each of the two ports.
-Follow this tutorial to set up IxNetwork API and to use the Wish Console to proceed with your configuration.
+Follow this tutorial to set up IxNetwork API and to use the Wish Console to proceed with your configuration. 
+
+This is a new section that is required.
 
 ## Step 1: Start Wish Console
 To start a Wish Console session, do the following:
