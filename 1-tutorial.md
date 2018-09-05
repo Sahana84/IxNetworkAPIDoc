@@ -132,4 +132,7 @@ puts "Starting All Protocols"
 		</script>
 		
 > ### This article was last updated at {{ "now" | date: "%Y-%m-%d %H:%M"}}.
-> ### Approximate Read-Time {% include read_time.html %}.
+<p class="meta">
+    <span>Posted by {{ page.author }} on {{ page.date }}.</span>
+    {% include read-time.html content=content %}
+</p>
